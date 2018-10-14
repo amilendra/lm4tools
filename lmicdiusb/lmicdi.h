@@ -36,7 +36,7 @@
 // OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
 //
 //*****************************************************************************
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

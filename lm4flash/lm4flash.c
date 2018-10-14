@@ -27,7 +27,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
-#include <libusb.h>
+#include <libusb-1.0/libusb.h>
 
 //#define DEBUG 1
 
